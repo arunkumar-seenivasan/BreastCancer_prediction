@@ -11,7 +11,7 @@ The classifier demonstrated superior accuracy over others, showcasing its potent
 
 💡 Key Tools:
 Python 🐍
-Machine Learning Models 🤖
+Machine Learning Model 🤖
 Accuracy Metrics 📈
 
 🩺 Impact:
