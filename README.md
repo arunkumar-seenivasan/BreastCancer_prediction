@@ -1,4 +1,4 @@
-🔬 Breast Cancer Prediction and Analysis
+🔬 BREAST CANCER PREDICTION AND ANALYSIS
 
 📊 Overview:
 Breast cancer classification is performed by evaluating various classifiers on a historical breast cancer dataset using Python.
